@@ -8,6 +8,8 @@ module.exports = {
         "primer-bg": "#E9E5D7",
         "primer-contrast": "#070200",
         "primer-accent": "#FE5B12",
+        "primer-contrast-2": "#111",
+        "primer-border": "#c8c2b8",
       },
     },
   },
