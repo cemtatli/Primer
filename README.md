@@ -1,6 +1,3 @@
-# Primer
-
-
 <h1 >Primer Website</h1>
 
 <p>Welcome to the "Primer" repository. Primer is made for digital creators, powered by Notion &amp; Super. This is a landing page design.</p>
